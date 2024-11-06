@@ -27,6 +27,12 @@
             </intent-filter>
         </activity>
 
+        <!-- AddEditTask Activity -->
+        <activity
+            android:name=".AddEditTaskActivity"
+            android:exported="true"
+            android:label="Add/Edit Task" />
+
         <!-- Firebase Messaging Service -->
         <service
             android:name=".MyFirebaseMessagingService"
