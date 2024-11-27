@@ -5,3 +5,5 @@ To run the application:
 Simply open the Android application
 Put the google maps open api key in AndroidManifest.xml
 Run the application
+
+![Main page](Main_login_page.png)
