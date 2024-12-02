@@ -38,7 +38,7 @@ Follow these steps to set up and run the project:
    git clone https://github.com/username/CMPE_277_Final_Project.git
    cd CMPE_277_Final_Project
    ```
-
+---
 **Open the Project in Android Studio**
 
 Launch Android Studio.
@@ -51,22 +51,26 @@ xml
 <meta-data
     android:name="com.google.android.geo.API_KEY"
     android:value="YOUR_GOOGLE_MAPS_API_KEY" />
-    
+
+---
 **Build and Run the Application**
 
 Connect your Android device or start an emulator in Android Studio.
 Click on Run or press Shift + F10 to build and deploy the app.
 
+---
 **How to Use**
 Create Tasks: Launch the app and add tasks using the intuitive UI. Provide a title, description, and optional location.
 Set Reminders: Schedule daily reminders for tasks at your preferred time.
 Track Tasks: Use the to-do list to track your pending and completed tasks.
 Google Maps Integration: Associate tasks with specific locations for better organization. Use the integrated map to view tasks by location.
 
+---
 **Troubleshooting**
 Error: Missing API Key
 Ensure that you have replaced the placeholder YOUR_GOOGLE_MAPS_API_KEY in AndroidManifest.xml with a valid Google Maps API key.
 
+---
 **Emulator Issues**
 If the Android Emulator doesn’t start, ensure that:
 
@@ -77,6 +81,7 @@ If location services don’t work, ensure that the app has the necessary permiss
 
 Go to the device’s Settings > Apps > Your App > Permissions and enable location permissions.
 
+---
 ## Working Mobile Project Features and Screenshots
 
 Here are some key screenshots of the application:
