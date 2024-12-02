@@ -82,6 +82,13 @@ If location services don’t work, ensure that the app has the necessary permiss
 Go to the device’s Settings > Apps > Your App > Permissions and enable location permissions.
 
 ---
+## Contributors
+- Vivek Ponnala
+- Sarah Liang
+- Siva Kumar Reddy N
+- Sai Charan Naveen Chandra
+- Sri Sai Vishal Sathagopam
+---
 ## Working Mobile Project Features and Screenshots
 
 Here are some key screenshots of the application:
